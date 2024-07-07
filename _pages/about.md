@@ -9,7 +9,8 @@ redirect_from:
 # About Me
 
 I'm a third year undergraduate student from School of Mathematics, UESTC.  I am very fortunate to be advised by Prof. [Liangjian Deng](https://liangjiandeng.github.io/). I will begin my Ph.D. studies at the School of Computer Science, Peking University in 2025, under the supervision of Prof [Ge Li](https://ligechina.github.io/).
-My current research interests are primarily centered around AI for Software Engineering (AI4SE), encompassing software engineering and natural language processing (NLP) technologies.
+
+My current research interests are mainly focused on AI for Software Engineering (AI4SE), encompassing software engineering and natural language processing (NLP) technologies.
 
 ## Publication
 ---
