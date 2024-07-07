@@ -10,4 +10,4 @@ I'm a third year undergraduate student from School of Mathematics, [UESTC](https
 
 # Publication
 ---
-- Ruochen Cui, **Yongding Tao**, Mingjun Ni. A Novel Window-Interaction Module Based on W-MSA. In The Second Tiny Papers Track at ICLR 2024.
+- Ruochen Cui, **Yongding Tao**, Mingjun Ni. A Novel Window-Interaction Module Based on W-MSA. In The Second Tiny Papers Track at ICLR 2024.[[paper](https://openreview.net/forum?id=ki4R0z0C4K)]
