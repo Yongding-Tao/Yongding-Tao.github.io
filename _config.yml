@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yongding Tao"
+title                    : "Yongding Tao'Site"
 title_separator          : "-"
 name                     : &name "Yongding Tao"
 description              : &description "personal description"
@@ -21,12 +21,12 @@ repository               : "Yongding-Tao/Yongding-Tao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "证件照-陶拥鼎.png"
+  avatar           : "avatar.png"
   name             : "Yongding Tao"
   pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
   location         : "Chengdu, China"
-  employer         : "UESTC"
+  # employer         : "UESTC"
   uri              : # URL
   email            : "yongd.tao@gmail.com" 
 
